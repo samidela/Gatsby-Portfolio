@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Trucking Management Software',
     info: 'This Trucking Management Software (TMS) allows owners full control of their business to better serve brokers as well as drivers.  ',
     info2: '',
-    url: '',
+    url: 'https://garytruckingllc.netlify.app/',
     repo: 'https://garytruckingllc.netlify.app/', // if no repo, the button will not show up
   },
   {
