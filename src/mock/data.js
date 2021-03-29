@@ -29,11 +29,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Trucking Company',
-    info: '',
+    title: 'Trucking Management Software',
+    info: 'This Trucking Management Software (TMS) allows owners full control of their business to better serve brokers as well as drivers.  ',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://garytruckingllc.netlify.app/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
