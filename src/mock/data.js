@@ -22,8 +22,9 @@ export const aboutData = {
     'I’m a developer with experience in building complex real-world applications from scratch. I have adequate problem-solving skills and debugging techniques in writing efficient codes for scalable applications. On each project, I aim to develop applications that are aesthetically pleasing, user friendly, and efficiently handles the problem it is solving.',
   paragraphTwo:
     'My professional journey has not stopped yet neither has my learning curve. Throughout my career I felt one thing; To learn more; One must be fundamentally fit to stay in the market and without proper formal education and professionalism. I always believed and focused towards research and development as I understand this is the key towards future. I have incorporated critical thinking and analytical reasoning into my professional path.',
-  paragraphThree: '',
-  resume: 'resume.pdf', // if no resume, the button will not show up
+  paragraphThree: ' ',
+  resume:
+    'https://github.com/samidela/Gatsby-Portfolio/blob/2d2f03b9302f4a3c03d1919a3a2ba3c672f00766/src/images/Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
