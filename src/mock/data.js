@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Samuel Eyob',
-  subtitle: 'JS Developer',
+  subtitle: 'JavaScript Developer',
   cta: '',
 };
 
@@ -21,37 +21,37 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project1.jfif',
     title: 'Trucking Management Software',
     info: 'This Trucking Management Software (TMS) allows owners full control of their business to better serve brokers as well as drivers.  ',
     info2: '',
     url: 'https://garytruckingllc.netlify.app/',
-    repo: 'https://garytruckingllc.netlify.app/', // if no repo, the button will not show up
+    repo: 'https://github.com/samidela/Trucking-Service-Management/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Recipe',
-    info: '',
+    img: 'project2.jfif',
+    title: 'Recipe Finder',
+    info: 'This application allows you to find a recipe for any cravings you have. It lists all the ingredients needed as well as the measurements.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://sami-kitchen.netlify.app/',
+    repo: 'https://github.com/samidela/react-recipe', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project3.jpg',
     title: 'To-Do List',
-    info: '',
+    info: 'This to-do-list can be used for day to day tasks, use it to complete tasks as you go through your day.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://daily-list.netlify.app/',
+    repo: 'https://github.com/samidela/react-todo', // if no repo, the button will not show up
   },
 ];
 
